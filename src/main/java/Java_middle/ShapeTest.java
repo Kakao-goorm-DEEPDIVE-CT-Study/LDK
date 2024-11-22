@@ -1,3 +1,4 @@
+/*
 package Java_middle;
 
 abstract class Shape {
@@ -65,11 +66,9 @@ public class ShapeTest {
         shapes[1] = new Rectangle(4, 6);
         shapes[2] = new Triangle(7, 5);
 
-        /*
         System.out.println(shapes[0].area);
         System.out.println(shapes[1].area);
         System.out.println(shapes[2].area);
-        */
 
         for (Shape e : shapes) {
             System.out.printf("면적 = %.0f\n", e.getArea());
@@ -159,3 +158,4 @@ public class ShapeTest {
 //        }
 //    }
 //}
+*/

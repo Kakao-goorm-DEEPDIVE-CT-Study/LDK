@@ -1,3 +1,4 @@
+/*
 package Java_middle;
 
 // 직원 클래스
@@ -48,3 +49,4 @@ public class Main {
         mgr.displayInfo();
     }
 }
+*/
